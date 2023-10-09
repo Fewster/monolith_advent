@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 56b1ff0747953e84daadcfeaed7d2353
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161366
+  packageName: Seamless Texture Generator
+  packageVersion: 1.1.1
+  assetPath: Assets/FImpossible Creations/Editor/Editor Tools/Scaling Tools/FScale_ChanneledGenerator.cs
+  uploadId: 612287

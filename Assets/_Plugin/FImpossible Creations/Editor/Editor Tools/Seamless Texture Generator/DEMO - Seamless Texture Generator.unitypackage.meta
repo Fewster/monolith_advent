@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 043e1a5cf7b641f439d3db3dbff46709
+timeCreated: 1609511147
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 161366
+  packageName: Seamless Texture Generator
+  packageVersion: 1.1.1
+  assetPath: Assets/FImpossible Creations/Editor/Editor Tools/Seamless Texture Generator/DEMO
+    - Seamless Texture Generator.unitypackage
+  uploadId: 612287
