@@ -15,8 +15,6 @@ public class base_Player : base_Enitity
 	// Player Settings
 	[HideInInspector] public float _sensitivity;
 
-	[HideInInspector] public GameObject _gameobject;
-
 	[SerializeField] int default_health = 100;
 	[SerializeField] int default_shield = 0;
 	[SerializeField] int default_stamina = 100;
@@ -37,4 +35,9 @@ public class base_Player : base_Enitity
 		_moveSpeed	= default_moveSpeed;
 		_jumpForce = default_jumpForce;
 	}
+
+
+
+	//TODO:
+	//S.O. events 
 }
